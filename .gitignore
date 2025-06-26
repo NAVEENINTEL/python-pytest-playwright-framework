@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+
+# VS Code & MacOS
+.vscode/
+.DS_Store
+
+# Pytest & Allure
+.cache/
+reports/
+allure-results/
+allure-report/
+
+# Playwright
+playwright-report/
+*.zip
+*.tmp
+trace.zip
+
+# Logs
+*.log
+
+# OS/system junk
+Thumbs.db
+ehthumbs.db
